@@ -335,7 +335,7 @@
                                         },
                                         "open_tracking": {
                                             "type": "object",
-                                            "description": "Allows you to track whether the email was opened or not, but including a single pixel image in the body of the content. When the pixel is loaded, we can log that the email was opened.",
+                                            "description": "Allows you to track whether the email was opened or not, by including a single pixel image in the body of the content. When the pixel is loaded, we can log that the email was opened.",
                                             "properties": {
                                                 "enable": {
                                                     "type": "boolean",
